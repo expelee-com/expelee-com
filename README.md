@@ -15,7 +15,7 @@
 
 - 🌱 We are currently working with **tools and softwares like redhat,solidity,rust,slither,mythrill & many more**
 
-- 👨‍💻 All our projects are available at [https://github.com/expelee-com](https://github.com/expelee-co)
+- 👨‍💻 All our projects are available at [https://github.com/expelee-com](https://github.com/expelee-com)
 
 - 📝 We regularly write articles on [https://medium.com/@expelee](https://medium.com/@expelee)
 
